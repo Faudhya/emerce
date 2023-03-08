@@ -12,7 +12,7 @@ export default function App() {
         <div className="container-fluid p-0">
             <Navbar />
             <Routes>
-                <Route path="/" element={<Products />} />
+                <Route path="/emerce" element={<Products />} />
                 <Route path="/storage" element={<Storage />} />
                 <Route path="/counter" element={<Counter />} />
                 <Route path="/product/:id" element={<Product />} />

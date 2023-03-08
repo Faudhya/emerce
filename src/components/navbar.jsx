@@ -12,10 +12,10 @@ function Navbar() {
     return (
         <div className="container-fluid nav-container p-0">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <Link class="navbar-brand" to="/">
+                <Link class="navbar-brand" to="/emerce">
                     <Image src={icon} alt="icon" className="icon-logo" />
                 </Link>
-                <Link class="navbar-brand" to="/">
+                <Link class="navbar-brand" to="/emerce">
                     <Image src={logo} alt="logo" className="navbar-logo" />
                 </Link>
                 <button
