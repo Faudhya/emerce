@@ -1,0 +1,49 @@
+#root {
+    margin: 0;
+}
+
+.counter-btn {
+    font-size: 12px !important;
+}
+
+.nav-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    z-index: 100;
+}
+
+.icon-logo {
+    height: 50px;
+}
+
+.navbar-logo {
+    height: 35px;
+}
+
+.main-container {
+    padding-top: 90px !important;
+}
+
+.product-card-img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.card-info {
+    max-height: 250px;
+}
+
+.card-button {
+    font-size: 13px !important;
+}
+
+.cart-title {
+    font-weight: bold !important;
+}
+
+.addtocart-product-btn {
+    max-width: 30%;
+}
